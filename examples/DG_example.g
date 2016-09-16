@@ -1,0 +1,22 @@
+LoadPackage("HAP");
+LoadPackage("DwG");
+G:=SymmetricGroup(3);
+data:=DG_data(G);
+Simples:=data[1];
+S:=data[2];
+T:=data[3];
+N:=data[4];
+FPdim:=data[5];
+FPdimC:=data[6];
+
+Print("\n------------------------------------------------------------------\n\n");
+Print("Data for D(S_3)\n");
+Print("rank ", Size(Simples),"\n");
+Print("FPdim(C) ", FPdimC,"\n");
+Print("FPdims ", FPdim, "\n");
+Print("S \n");
+Display(S);
+Print("T \n");
+Display(T);
+#display_fusion_rules(N);
+Print("\n------------------------------------------------------------------\n\n");

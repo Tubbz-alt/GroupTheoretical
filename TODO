@@ -1,0 +1,8 @@
+- add functionality for group-theoretical category calculations
+- Verify Tambara-Yamagami data
+- Add functionality for near-group data
+- Add quantum group stuff
+- Determine a better name for the package (it has expanded beyond doubles)
+- overhaul return values to return records rather than lists
+- MAYBE: add (de)equivariantization computations
+- determine if bug is in get_duality or DG_data. See duality example

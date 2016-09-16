@@ -1,0 +1,24 @@
++0.0.0.2 added symmetric_data functions for computing the modular datum of Rep(G,z)
++0.0.0.3 added specialized functions for untwisted double calculations.
++0.0.0.4 added error checking to ensure that z in a central element of order <=2 in Rep(G,z)
++0.0.0.4 updated some list initialization routines to use NullMat
++0.0.0.5 moved fusion rule function into its own file (previously in DwG_data).
++0.0.0.5 moved get_cohomology funciton into its own file (previous in DwG_data).
++0.0.0.6 renamed functions in DwG_data to reflect their specialized use.
++0.0.0.7 completed the sort_S_and_T function and moved to separate file to reflect its general use.
++0.0.0.7 renamed sort_S_and_T to pseudounitary_sort to better reflect its function.
++0.0.0.7 changed output order of pseudounitary_sort to be consistent with output order of symmetric_data
++0.0.0.8 added end-to-end calculations for DwG and DG.
++0.0.0.9 added T-matrix calculations for Rep(G,z).
++0.0.0.9 added placeholder files for TY_data and Pointed_data
++0.0.0.10 changed TY_data file to near_group_data and added placeholder for near_group_data function.
++0.0.0.10 changed function signature of TY_data and implemented S and T calculations according to Siehler paper arXiv:math/0011037v1
++0.0.0.10 added some error checking for braiding/spherical choices of TY_data
++0.0.0.11 minor bug fixes so that it will compile. Examples added. function to display fusion rules added.
++0.0.0.11 added function to sort objects by dimensions. This is automatically called by DG_data and DwG_data.
++0.0.0.12 completed poitned data function (notation follows DGNO1)
++0.0.0.13 added a duality computation function.
++0.0.0.14 bug fixes in duality function. Added duality function to read/init/doc files, added duality example.
++0.0.0.15 bug fix: when sorting simples were replaced by dimensions
++0.0.0.15 added MIT license information
++0.0.0.16 updated copyright statements in .gi and .gd files
