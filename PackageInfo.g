@@ -62,11 +62,11 @@ Persons := [
     FirstNames    := "Cesar",
     IsAuthor      := true,
     IsMaintainer  := false,
-    Email         := "cesarneyit@gmail.com",
+    Email         := "cn.galindo1116@uniandes.edu.co",
     WWWHome       := "N/A",
     PostalAddress := "N/A",
-    Place         := "N/A",
-    Institution   := "N/A"
+    Place         := "Bogota, Columbia",
+    Institution   := "Universidad de Los Andes"
   ),
   rec(
     LastName      := "Ng",
@@ -74,32 +74,32 @@ Persons := [
     IsAuthor      := true,
     IsMaintainer  := false,
     Email         := "rng@math.lsu.edu",
-    WWWHome       := "N/A",
+    WWWHome       := "math.lsu.edu/~rng/",
     PostalAddress := "N/A",
-    Place         := "N/A",
-    Institution   := "N/A"
+    Place         := "Baton Rouge, Louisiana",
+    Institution   := "Louisiana State University"
   ),
   rec(
     LastName      := "Plavnik",
     FirstNames    := "Julia",
     IsAuthor      := true,
     IsMaintainer  := false,
-    Email         := "juliaplavnik@gmail.com",
-    WWWHome       := "N/A",
+    Email         := "juliap@math.tamu.edu",
+    WWWHome       := "math.tamu.edu/~julia",
     PostalAddress := "N/A",
-    Place         := "N/A",
-    Institution   := "N/A"
+    Place         := "College Station, Texas, USA",
+    Institution   := "Texas A&M University"
   ),
   rec(
     LastName      := "Rowell",
     FirstNames    := "Eric",
     IsAuthor      := true,
     IsMaintainer  := false,
-    Email         := "eric.rowell3@gmail.com",
-    WWWHome       := "N/A",
+    Email         := "rowell@math.tamu.edu",
+    WWWHome       := "math.tamu.edu/~rowell/",
     PostalAddress := "N/A",
-    Place         := "N/A",
-    Institution   := "N/A"
+    Place         := "College Station, Texas, USA",
+    Institution   := "Texas A&M University"
   ),
   rec(
     LastName      := "Wang",
@@ -107,10 +107,10 @@ Persons := [
     IsAuthor      := true,
     IsMaintainer  := false,
     Email         := "zhenghwa@microsoft.com",
-    WWWHome       := "N/A",
+    WWWHome       := "stationq.ucsb.edu/~wang/",
     PostalAddress := "N/A",
-    Place         := "N/A",
-    Institution   := "N/A"
+    Place         := "Santa Barbara, California, USA",
+    Institution   := "Microsoft Research Station Q"
   )
 ],
 
