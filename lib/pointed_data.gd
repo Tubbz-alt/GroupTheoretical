@@ -1,11 +1,11 @@
 ################################################################################
 ##
-#W pointed_data.gd              DwG Package
+#W pointed_data.gd              GroupTheoretical Package
 ##
 #W Paul Bruillard, Cesar Galindo, Siu-Hung Ng, Julia Plavnik, Eric Rowell, 
 #W Zhenghan Wang
 ##
-## Installation file for pointed_data functions of the DwG Package
+## Installation file for pointed_data functions of the GroupTheoretical Package
 ##
 #Y Copyright (C) 2016, Battelle Memorial Institute
 ##
@@ -27,7 +27,7 @@
 ## b(g,h)=q(gh)/(q(g)*q(h)). Then T[g] = q(g)*chi(g), S[g][h] = b(g,h)*chi(g)*chi(h)
 ##
 ## <Example><![CData[gap>
-## LoadPackage("DwG");
+## LoadPackage("GroupTheoretical");
 ## G:=ElementaryAbelianGroup(4);
 ## WHERE TO GET QUADRATIC FORM?
 ## chi:=Irr(G)[1];

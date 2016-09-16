@@ -1,15 +1,15 @@
 ################################################################################
 ##
-#A testall.tst               DwG Package
+#A testall.tst               GroupTheoretical Package
 ##
 #A Paul Bruillard, Cesar Galindo, Siu-Hung Ng, Julia Plavnik, Eric Rowell
 #A Zhenghan Wang
 ##
 ##
-gap> START_TEST("DwG package: testall.tst");
+gap> START_TEST("GroupTheoretical package: testall.tst");
 gap> LoadPackage("HAP",false);
 true
-gap> LoadPackage("DwG",false);
+gap> LoadPackage("GroupTheoretical",false);
 true
 
 ################################################################################

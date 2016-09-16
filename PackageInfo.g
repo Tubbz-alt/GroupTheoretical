@@ -1,6 +1,6 @@
 ################################################################################
 ##
-## PackageInfo.g for the package `DwG'
+## PackageInfo.g for the package `GroupTheoretical'
 ## Authors: Paul Bruillard
 ##          Cesar Galindo
 ##          Siu-Hung Ng
@@ -14,7 +14,7 @@
 SetPackageInfo( rec (
 
 ## package name and banner subtitlte
-PackageName := "DwG",
+PackageName := "GroupTheoretical",
 Subtitle := "Twisted Double of a Finite Group",
 
 ## Version numbering scheme is <major>.<minor>[.<build>[.<revision>]]
@@ -24,7 +24,7 @@ Subtitle := "Twisted Double of a Finite Group",
 ##   2 = release candidate
 ##   3 = for (final) release
 ##
-Version := "0.0.1.0",
+Version := "0.0.1.1",
 
 ## Date in format dd/mm/yyyy
 ##
@@ -145,14 +145,14 @@ AbstractHTML := "This package provides a collection of functions for computing\
 ##
 PackageDoc := rec(
   ## same name as in GAP
-  BookName := "DwG",
+  BookName := "GroupTheoretical",
   ArchiveURLSubset := ["doc"],
   HTMLStart := "doc/main.html",
   PDFStart := "doc/output.pdf",
   # the path to the .six file used by GAPs help system
   SixFile := "doc/manual.six",
   # a longer title
-  LongTitle := "DwG GAP Package Documentation",
+  LongTitle := "GroupTheoretical GAP Package Documentation",
 ),
 
 ## Restrications and dependencies
@@ -173,12 +173,12 @@ AvailabilityTest := ReturnTrue,
 ## Banner String
 BannerString := Concatenation(
   "--------------------------------------------------------------------------------\n",
-  " Loading DwG ", ~.Version, "\n",
+  " Loading GroupTheoretical ", ~.Version, "\n",
   " by ",
   JoinStringsWithSeparator(List(Filtered(~.Persons,r->r.IsAuthor),r->Concatenation(" ",r.FirstNames,
   " ", r.LastName))),
   "\n",
-  "For help, type ?DwG \n",
+  "For help, type ?GroupTheoretical \n",
   "--------------------------------------------------------------------------------\n"),
 
 ## relative path to the package root to a file which contains tests

@@ -1,11 +1,11 @@
 ################################################################################
 ##
-#W symmetric_data.gi              DwG Package
+#W symmetric_data.gi              GroupTheoretical Package
 ##
 #W Paul Bruillard, Cesar Galindo, Siu-Hung Ng, Julia Plavnik, Eric Rowell, 
 #W Zhenghan Wang
 ##
-## Installation file for symmetric_data functions of the DwG Package
+## Installation file for symmetric_data functions of the GroupTheoretical Package
 ##
 #Y Copyright (C) 2016, Battelle Memorial Institute
 ##

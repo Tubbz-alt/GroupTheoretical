@@ -1,11 +1,11 @@
 ################################################################################
 ##
-#W DwG_data.gi              DwG Package
+#W DwG_data.gi              GroupTheoretical Package
 ##
 #W Paul Bruillard, Cesar Galindo, Siu-Hung Ng, Julia Plavnik, Eric Rowell, 
 #W Zhenghan Wang
 ##
-## Installation file for DwG_data functions of the DwG Package
+## Installation file for DwG_data functions of the GroupTheoretical Package
 ##
 #Y Copyright (C) 2016, Battelle Memorial Institute
 ##

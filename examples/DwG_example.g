@@ -1,5 +1,5 @@
 LoadPackage("HAP");
-LoadPackage("DwG");
+LoadPackage("GroupTheoretical");
 G:=SymmetricGroup(3);
 H_and_cocycles:=get_cohomology(G,3);
 H:=H_and_cocycles[1];

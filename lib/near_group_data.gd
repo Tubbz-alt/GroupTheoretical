@@ -1,11 +1,11 @@
 ################################################################################
 ##
-#W TY_data.gd              DwG Package
+#W TY_data.gd              GroupTheoretical Package
 ##
 #W Paul Bruillard, Cesar Galindo, Siu-Hung Ng, Julia Plavnik, Eric Rowell, 
 #W Zhenghan Wang
 ##
-## Installation file for TY_data functions of the DwG Package
+## Installation file for TY_data functions of the GroupTheoretical Package
 ##
 #Y Copyright (C) 2016, Battelle Memorial Institute
 ##
@@ -23,7 +23,7 @@
 ## Computes WHAT for the near group category (G,k)
 ##
 ## <Example><![CData[gap>
-## LoadPackage("DwG");
+## LoadPackage("GroupTheoretical");
 ## G:=ElementaryAbelianGroup(4);
 ## k:=5;
 ## data:=near_group_data(G,k);
@@ -49,7 +49,7 @@ DeclareGlobalFunction("near_group_data");
 ## such that chi[g][h]!=1 unless g=e or h=e
 ##
 ## <Example><![CData[gap>
-## LoadPackage("DwG");
+## LoadPackage("GroupTheoretical");
 ## G:=ElementaryAbelianGroup(4);
 ## IrrG:=Irr(G);
 ## chi1:=IrrG[2];

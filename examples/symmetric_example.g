@@ -1,5 +1,5 @@
 LoadPackage("HAP");
-LoadPackage("DwG");
+LoadPackage("GroupTheoretical");
 G:=CyclicGroup(2);
 Z2_data:=symmetric_data(G,AsSet(G)[1]);
 sVec_data:=symmetric_data(G,AsSet(G)[2]);

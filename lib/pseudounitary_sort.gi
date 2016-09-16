@@ -1,11 +1,11 @@
 ################################################################################
 ##
-#W pseudounitary_sort.gi              DwG Package
+#W pseudounitary_sort.gi              GroupTheoretical Package
 ##
 #W Paul Bruillard, Cesar Galindo, Siu-Hung Ng, Julia Plavnik, Eric Rowell, 
 #W Zhenghan Wang
 ##
-## Installation file for pseudounitary_sort functions of the DwG Package
+## Installation file for pseudounitary_sort functions of the GroupTheoretical Package
 ##
 #Y Copyright (C) 2016, Battelle Memorial Institute
 ##

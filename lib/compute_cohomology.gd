@@ -1,12 +1,12 @@
 ################################################################################
 ##
-#W compute_cohomology.gd      DwG Package
+#W compute_cohomology.gd      GroupTheoretical Package
 ##
 #W Paul Bruillard, Cesar Galindo, Siu-Hung Ng, Julia Plavnik, Eric Rowell,
 #W Zhenghan Wang
 ##
 ## Declaration file for functions in the compute_cohomology
-##   portion of the DwG package
+##   portion of the GroupTheoretical package
 ##
 #Y Copyright (C) 2016, Battelle Memorial Institute
 ##

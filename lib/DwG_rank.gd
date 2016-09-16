@@ -1,11 +1,11 @@
 ################################################################################
 ##
-#W DwG_rank.gd      DwG Package
+#W DwG_rank.gd      GroupTheoretical Package
 ##
 #W Paul Bruillard, Cesar Galindo, Siu-Hung Ng, Julia Plavnik, Eric Rowell,
 #W Zhenghan Wang
 ##
-## Declaration file for functions in the DwG_rank portion of the DwG package
+## Declaration file for functions in the DwG_rank portion of the GroupTheoretical package
 ##
 #Y Copyright (C) 2016, Battelle Memorial Institute
 ##

@@ -1,11 +1,11 @@
 ################################################################################
 ##
-#W symmetric_data.gd              DwG Package
+#W symmetric_data.gd              GroupTheoretical Package
 ##
 #W Paul Bruillard, Cesar Galindo, Siu-Hung Ng, Julia Plavnik, Eric Rowell, 
 #W Zhenghan Wang
 ##
-## Installation file for symmetric_data functions of the DwG Package
+## Installation file for symmetric_data functions of the GroupTheoretical Package
 ##
 #Y Copyright (C) 2016, Battelle Memorial Institute
 ##
@@ -26,7 +26,7 @@
 ## Here z should be a central element of order at most 2 in G.
 ##
 ## <Example><![CData[gap>
-## LoadPackage("DwG");
+## LoadPackage("GroupTheoretical");
 ## G:=CyclicGroup(2);
 ## Z2_data:=symmetric_data(G,AsSet(G)[1]);
 ## sVec_data:=symmetric_data(G,AsSet(G)[2]);

@@ -1,6 +1,6 @@
 ################################################################################
 ##
-#W init.g               DwG Package
+#W init.g               GroupTheoretical Package
 ##
 #W Paul Bruillard, Cesar Galindo, Siu-Hung Ng, Julia Plavnik, Eric Rowell, 
 #W Zhenghan Wang
@@ -11,16 +11,16 @@
 ##
 #R Read the declaration files
 ##
-ReadPackage("DwG","lib/compute_cohomology.gd");;
-ReadPackage("DwG","lib/Projective_Representations.gd");;
-ReadPackage("DwG","lib/verlinde.gd");;
-ReadPackage("DwG","lib/pseudounitary_sort.gd");;
-ReadPackage("DwG","lib/DwG_rank.gd");;
-ReadPackage("DwG","lib/DwG_data.gd");;
-ReadPackage("DwG","lib/DG_data.gd");;
-ReadPackage("DwG","lib/symmetric_data.gd");;
-ReadPackage("DwG","lib/pointed_data.gd");;
-ReadPackage("DwG","lib/near_group_data.gd");;
-ReadPackage("DwG","lib/get_duality.gd");;
+ReadPackage("GroupTheoretical","lib/compute_cohomology.gd");;
+ReadPackage("GroupTheoretical","lib/Projective_Representations.gd");;
+ReadPackage("GroupTheoretical","lib/verlinde.gd");;
+ReadPackage("GroupTheoretical","lib/pseudounitary_sort.gd");;
+ReadPackage("GroupTheoretical","lib/DwG_rank.gd");;
+ReadPackage("GroupTheoretical","lib/DwG_data.gd");;
+ReadPackage("GroupTheoretical","lib/DG_data.gd");;
+ReadPackage("GroupTheoretical","lib/symmetric_data.gd");;
+ReadPackage("GroupTheoretical","lib/pointed_data.gd");;
+ReadPackage("GroupTheoretical","lib/near_group_data.gd");;
+ReadPackage("GroupTheoretical","lib/get_duality.gd");;
 
 #E init.g . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  ends here

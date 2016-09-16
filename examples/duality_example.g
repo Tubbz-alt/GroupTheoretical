@@ -1,5 +1,5 @@
 LoadPackage("HAP");
-LoadPackage("DwG");
+LoadPackage("GroupTheoretical");
 G:=SymmetricGroup(3);
 data:=DG_data(G);;
 N:=data[4];;

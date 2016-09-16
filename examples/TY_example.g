@@ -1,5 +1,5 @@
 LoadPackage("HAP");
-LoadPackage("DwG");
+LoadPackage("GroupTheoretical");
 G:=ElementaryAbelianGroup(4);
 IrrG:=Irr(G);
 chi1:=IrrG[2];

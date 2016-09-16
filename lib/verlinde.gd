@@ -1,11 +1,11 @@
 ################################################################################
 ##
-#W verlinde.gd      DwG Package
+#W verlinde.gd      GroupTheoretical Package
 ##
 #W Paul Bruillard, Cesar Galindo, Siu-Hung Ng, Julia Plavnik, Eric Rowell,
 #W Zhenghan Wang
 ##
-## Declaration file for functions in the verlinde portion of the DwG package
+## Declaration file for functions in the verlinde portion of the GroupTheoretical package
 ##
 #Y Copyright (C) 2016, Battelle Memorial Institute
 ##
