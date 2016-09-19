@@ -24,11 +24,11 @@ Subtitle := "Twisted Double of a Finite Group",
 ##   2 = release candidate
 ##   3 = for (final) release
 ##
-Version := "0.0.1.1",
+Version := "0.0.1.2",
 
 ## Date in format dd/mm/yyyy
 ##
-Date := "16/09/2016",
+Date := "19/09/2016",
 
 PackageWWWHome := Concatenation("https://github.com/pnnl/",LowercaseString(~.PackageName),".git/"),
 
@@ -159,7 +159,7 @@ PackageDoc := rec(
 ##
 Dependencies := rec(
   # GAP version
-  GAP:="4.8.3",
+  GAP:=">=4.4",
   NeededOtherPackages := [["GAPDoc","1.5"],["HAP","1.11.13"]],
   SuggestedOtherPackages := [],
   OtherPackagesLoadedInAdvance:=[],

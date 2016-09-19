@@ -23,3 +23,4 @@
 +0.0.0.15 added MIT license information
 +0.0.0.16 updated copyright statements in .gi and .gd files
 +0.0.1.1 updated contributor information and package names
++0.0.1.2 lowered version of GAP from bleeding edge to 4.4
